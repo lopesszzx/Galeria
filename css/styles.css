@@ -1,0 +1,94 @@
+*{
+    color: #25282E;
+}
+#header{
+    margin: auto;
+    padding-top: 15px;  
+    border-bottom: 1px solid #CCC;
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+    
+}
+#titulo {
+    padding-left: 10px;
+}
+#header p {
+    margin-bottom: 1%;
+    padding-top: 3px;
+}
+
+#navbar a {
+    color: #444;
+}
+#img_01{
+    padding-top: 10px;
+}
+h2{
+    text-align: center;
+    font-style: arial;
+    font-size: 35px;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+#card-02{
+    max-width:300px;
+    max-height:250px;
+    width: auto;
+    height: auto;   
+}
+
+/* Galeria */
+
+#img2 {
+    background-image: url('../img/g_2.jpg');
+}
+#img3 {
+    background-image: url('../img/g_3.jpg');
+}
+#img4 {
+    background-image: url('../img/g_4.jpg');
+}
+#img5 {
+    background-image: url('../img/g_5.jpg');
+}
+#img6 {
+    background-image: url('../img/g_6.jpg');
+}
+#gallery-container h1 {
+    text-align: center;
+}
+#gallery-container h1,
+#gallery-container .col-md-6,
+#gallery-container .col-12 {
+   margin-bottom: 50px; 
+}
+.small-image-container {
+  height: 250px;
+  margin-bottom: 20px;
+
+}
+#rodape{
+    text-align: center;   
+}
+#texto_rodape{
+text-align: center;
+padding-top: 10px;
+padding-bottom: 30px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.bi.bi-facebook,
+.bi.bi-instagram,
+.bi.bi-twitter{
+    padding: 25px;
+    font-size: 20px;
+}
+#texto_rodape_final{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
